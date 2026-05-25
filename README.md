@@ -21,7 +21,7 @@ Scraper para extração estruturada de conteúdo HTML utilizando Python e Seleni
 ### 1. Clone o repositório
 
 ```bash
-git git clone https://github.com/xDouGzz/web-scraper-selenium.git
+git clone https://github.com/xDouGzz/web-scraper-selenium.git
 cd web-scraper-selenium
 ```
 
