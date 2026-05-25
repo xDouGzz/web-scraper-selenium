@@ -22,7 +22,7 @@ Scraper para extração estruturada de conteúdo HTML utilizando Python e Seleni
 
 ```bash
 git git clone https://github.com/xDouGzz/web-scraper-selenium.git
-cd seu-repositorio
+cd web-scraper-selenium
 ```
 
 ### 2. Crie o ambiente virtual (venv)
